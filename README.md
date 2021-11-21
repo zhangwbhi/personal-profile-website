@@ -1,2 +1,2 @@
 # personal-profile-website
-[personal website](https://zhangwbhi.pythonanywhere.com/)
+[personal website developed with Django](https://zhangwbhi.pythonanywhere.com/)
